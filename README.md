@@ -6,7 +6,7 @@ Running Instructions :
   Deploy the generated web archive (WAR) file onto your container (tested on tomcat)
 
 Dependenices :
-1. Mongodb running on localhost at default port
+1. Mongodb running on localhost at default port.
 
 End points :
 /qodtest/api/quote/

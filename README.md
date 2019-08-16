@@ -1,5 +1,5 @@
 # qodtest
-QuoteOfTheDay app.
+QuoteOfTheDay app
 
 Running Instructions :
   Issue "mvn clean package" command from the project home directory.
